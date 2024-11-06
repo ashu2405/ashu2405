@@ -45,7 +45,7 @@
 
 <h3 align="left" style="color: #FB8C00;">🔥 My Stats :</h3>
 
-<div align="left"> 
+<div align="center"> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashutosh%20Shukla&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
