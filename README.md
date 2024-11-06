@@ -1,3 +1,4 @@
+
 ###
 
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
@@ -42,22 +43,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-###
+<h3 align="left" style="color: #FB8C00;">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left"> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashutosh%20Shukla&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
-###
+<h3 align="left" style="color: #FB8C00;">📊 My Github Stats:</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
+<br/>
+<a href="https://github.com/ashu2405/github-readme-stats"><img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashu2405&show_icons=true&count_private=true&theme=dark&icon_color=FB8C00&title_color=FB8C00&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ashu2405/github-readme-stats"><img alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu2405&langs_count=8&count_private=true&layout=compact&theme=dark&icon_color=FB8C00&title_color=FB8C00&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+## ![](https://komarev.com/ghpvc/?username=ashu2405)
